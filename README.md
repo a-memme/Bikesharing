@@ -11,7 +11,18 @@ Here, overall citibike useage for the month of August is displayed. As mentioned
 
 <img width="1008" alt="heatmap_1" src="https://user-images.githubusercontent.com/79600550/120910960-0f85a700-c651-11eb-90ec-3486214da787.png">
 
-Using a heatmap to reflect useage through each day of the week, the same time frames mentioned in the previous image are represented as being most popular when considering weekdays. When considering weekends however, there is a more gradual increase of bike useage through a longer time frame (i.e 10am-7pm as mentioned above). It's also interesting to note that the largest useage of bikes is occuring within the 5/6pm timeframe, as represented in the previous image. This is detectable by the darker red rectangles displayed on the heatmap. 
+Using a heatmap to reflect useage through each day of the week, the same time frames mentioned in the previous image are represented as most popular when considering weekdays. When considering weekends however, there is a more gradual increase of bike useage through a longer time frame (i.e 10am-7pm as mentioned above). It's also interesting to note that greatest citibike useage is occuring within the 5/6pm timeframe, as represented in the previous image. This is detectable by the darker red rectangles displayed on the heatmap. 
 
 ![Gender_dashboard](https://user-images.githubusercontent.com/79600550/120911058-15c85300-c652-11eb-81f7-d8bd15becaa9.png)
+
+The above dashboard reflects citibike useage in relation to gender. The Pie chart indicates that the greatest number of citibike users are male (65.28%), followed by females at 25.10%, and lastly by the unknown gender category at 9.62%. When filtering for gender throughly daily and weekly useage, the same relationship noted in both preceding graphs is displayed in congruegence with useage frequency in each gender - i.e the relationship is most pronounced in the male heatmap who are the most frequent users of citibike, followed by the female category, and finally, a very slight parallel in the unknown gender category. This is easily detected based on the intensity of colour in each heatmap. 
+
+![trip_duration](https://user-images.githubusercontent.com/79600550/120911205-3644dd00-c653-11eb-86b2-927b935b4f40.png)
+
+The next graph features trip duration for each gender. Although an exponentially larger number of bikes are being used in the male category, all genders tend to follow a very similar relationship when regarding trip duration. That is, the length of citibike trips are most popularily around 5 or 6 minutes across all gender categories, and taper off within the hour. No trips are longer than one hour across all gender categories.
+
+![usertype_useage](https://user-images.githubusercontent.com/79600550/120911294-4b6e3b80-c654-11eb-9cef-27f6f0662085.png)
+
+The final visualization displays weekly useage across gender categories, but also filters for usertype - i.e customer or subscriber. As indicated in the above text boxes, subscribers are the most popular type of citibike users at 81.07% while generic customers only make up 18.93% of citibike users. As the data follows - subsribers in the male catgeory make up a very dense proprotion of citibike useage, and hence are the most popular category of users. This is followed by subscribers in the female category. Interestingly enough, the unknown category is the only gender category that displays lower useage by subscriber vs. customer. 
+
 
