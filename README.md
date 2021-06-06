@@ -20,7 +20,7 @@ are the most frequent users of citibike, followed by the female category, and fi
 
 ![trip_duration](https://user-images.githubusercontent.com/79600550/120911205-3644dd00-c653-11eb-86b2-927b935b4f40.png)
 
-The next graph visualized above features trip duration for each gender. Although an exponentially larger number of bikes are being used in the male category, all genders tend to follow a very similar relationship in regard to trip duration. That is, the length of citibike trips are most popularily around 5 or 6 minutes across all gender categories, and taper off within the hour. No trips are longer than one hour across all gender categories.
+The next graph visualized above features trip duration for each gender. Although an exponentially larger number of bikes are being used in the male category, all genders tend to follow a very similar relationship in regard to trip duration. That is, that citibike trips are most popularily five to six minutes long across all gender types. Trips become less and less frequent as the time increases up to one hour - no trips are longer than one hour across all genders.
 
 ![usertype_useage](https://user-images.githubusercontent.com/79600550/120911294-4b6e3b80-c654-11eb-9cef-27f6f0662085.png)
 
