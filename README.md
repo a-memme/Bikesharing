@@ -15,8 +15,8 @@ Using a heatmap to reflect useage through each day of the week, the same time fr
 
 ![Gender_dashboard](https://user-images.githubusercontent.com/79600550/120911058-15c85300-c652-11eb-81f7-d8bd15becaa9.png)
 
-The above dashboard reflects citibike useage in relation to gender. The pie chart indicates that the greatest number of citibike users are male (65.28%), followed by females at 25.10%, and lastly by the unknown gender category at 9.62%. When filtering for gender through daily and weekly useage, the same relationship noted in both preceding graphs is displayed; the magnitude of this relationship is reflected in the heatmaps based on useage frequency in each gender - i.e i.e the relationship is most pronounced in the male heatmap where males
-are the most frequent users of citibike, followed by the female category, and finally, a much less pronounced parallel seen in the unknown gender category heatmat. This is easily detected based on the intensity of colour in each heatmap. 
+The above dashboard reflects citibike useage in relation to gender. The pie chart indicates that the greatest number of citibike users are male (65.28%), followed by females at 25.10%, and lastly by the unknown gender category at 9.62%. When filtering for gender through daily and weekly useage, the same relationship noted in both preceding graphs is displayed; the magnitude of this relationship is reflected in the heatmaps based on useage frequency in each gender - i.e the relationship is most pronounced in the male heatmap as males
+are the most frequent users of citibike, followed by the female category, and finally, by a significantly less salient relationship  seen in the unknown gender category. This is easily detected based on the intensity of colour in each heatmap. 
 
 ![trip_duration](https://user-images.githubusercontent.com/79600550/120911205-3644dd00-c653-11eb-86b2-927b935b4f40.png)
 
