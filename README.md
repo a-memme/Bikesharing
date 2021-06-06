@@ -11,7 +11,7 @@ Here, overall citibike useage for the month of August is displayed. As mentioned
 
 <img width="1008" alt="heatmap_1" src="https://user-images.githubusercontent.com/79600550/120910960-0f85a700-c651-11eb-90ec-3486214da787.png">
 
-Using a heatmap to reflect useage through each day of the week, the same time frames mentioned in the previous image are represented as most popular when considering weekdays. When considering weekends however, there is a more gradual increase of bike useage through a longer time frame (i.e 10am-7pm as mentioned above). It's also interesting to note that greatest citibike useage is occuring within the 5/6pm timeframe, as represented in the previous image. This is detectable by the darker red rectangles displayed on the heatmap. 
+Using a heatmap to reflect useage through each day of the week, the same time frames mentioned in the previous image are represented as most popular when considering weekdays. When considering weekends however, there is a more gradual increase of bike useage through a longer time frame (i.e 10am-7pm as mentioned above). It's also interesting to note that greatest citibike useage occurs within the 5/6pm timeframe, as represented in the previous graph. This is detectable by the darker red rectangles displayed on the heatmap. 
 
 ![Gender_dashboard](https://user-images.githubusercontent.com/79600550/120911058-15c85300-c652-11eb-81f7-d8bd15becaa9.png)
 
