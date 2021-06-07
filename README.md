@@ -34,3 +34,5 @@ Given the above analysis, the citibike data for August tells an interesting stor
 First, trip duration could be visualized filtering for usertype to determine whether the relationship of trip length differs between customer and subsriber. From here, it would be interesting to add another gender filter. Our customer useage heatmap in the above analysis indicated an interesting contrast with unknown gender types and their relationship with usertype in comparison to the male and female categories - it would be interesting to see what role the unknown gender types play in trip duration vs usertype.
 
 Finally, to build onto the above trip duration visualization,  a geomap graph could be created displaying areas where the longest/shortest trips are taken by minute (as no trips seem to exceed the 1 hour time frame). Depending on our findings of the previous graph, a usertype filter could be added to this map to create an even deeper understanding of this relationship.
+
+[link to dashboard](https://public.tableau.com/app/profile/andrew8402/viz/NYCCitibikeChallenge_16224167080570/CitibikeUseage)
