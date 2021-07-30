@@ -1,5 +1,5 @@
 # Bikesharing
-[link to dashboard](https://public.tableau.com/app/profile/andrew8402/viz/NYCCitibikeChallenge_16224167080570/CitibikeUseage)
+[Link to Tableau Dashboard](https://public.tableau.com/app/profile/andrew8402/viz/NYCCitibikeChallenge_16224167080570/CitibikeUseage)
 
 ## Analysis Overview 
 Using tableau to visualize NYC Citibike useage data for the month of August 2019. The data was briefly cleaned using Python, exported into a csv file, and then displayed using several tableau visualizations.
