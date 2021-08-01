@@ -3,7 +3,7 @@
 
 ## Analysis Overview 
 - Using tableau to visualize NYC Citibike useage data for the month of August 2019. 
-- The data was briefly cleaned using Python, exported into a csv file, and then displayed using several tableau visualizations.
+- Data was briefly cleaned using Python, exported into a csv file, and then displayed using several tableau visualizations.
 
 ## Results
 The following visualizations were used to create a story in tableau, reflecting a number of relationships in the data:
@@ -18,19 +18,19 @@ Using a heatmap to reflect useage through each day of the week, the same time fr
 
 ![Gender_dashboard](https://user-images.githubusercontent.com/79600550/120911058-15c85300-c652-11eb-81f7-d8bd15becaa9.png)
 
-The above dashboard reflects citibike useage in relation to gender. The pie chart indicates that the greatest number of citibike users are male (65.28%), followed by females at 25.10%, and lastly by the unknown gender category at 9.62%. When filtering for gender through daily and weekly useage, the same relationship noted in both preceding graphs is displayed; the magnitude of this relationship is reflected in the heatmaps based on useage frequency in each gender - i.e the relationship is most pronounced in the male heatmap as males
-are the most frequent users of citibike, followed by the female category, and finally, by a significantly less salient relationship  seen in the unknown gender category. This is easily detected based on the intensity of colour in each heatmap. 
+The above dashboard reflects citibike useage in relation to gender. The pie chart indicates that the greatest number of citibike users are male (65.28%), followed by females at 25.10%, and lastly by the unknown gender category at 9.62%. When filtering for gender through daily and weekly useage, the same relationship noted in both preceding graphs is displayed, showcasing popular useage times. The magnitude of this relationship is reflected in the heatmaps as a function of gender useage popularity - i.e this relationship is most pronounced in the male heatmap as males
+are the most frequent users of citibike, followed by females as the second most frequent users, and finally, by the unknown gender category, where the time/useage relationship seems to align significantly less. This is easily detected based on the intensity of colour in each heatmap. 
 
 ![trip_duration](https://user-images.githubusercontent.com/79600550/120911205-3644dd00-c653-11eb-86b2-927b935b4f40.png)
 
-The next graph visualized above features trip duration for each gender. Although an exponentially larger number of bikes are being used in the male category, all genders tend to follow a very similar relationship in regard to trip duration. That is, citibike trips are most popularily five to six minutes long across all gender types. Trips become less and less frequent as the time increases up to one hour - no trips are longer than one hour across all genders.
+The next graph visualized above features trip duration for each gender. Although an exponentially larger number of bikes are being used in the male category, all genders tend to follow a very similar relationship in regard to trip duration. That is, citibike trips are most popularily five to six minutes long across all gender types. Trips become less and less frequent as the time increases up to one hour. No trips are longer than one hour across all genders.
 
 ![usertype_useage](https://user-images.githubusercontent.com/79600550/120911294-4b6e3b80-c654-11eb-9cef-27f6f0662085.png)
 
 The final visualization displays usertype popularity and weekly useage across gender categories with the addition of a usertype filter - i.e customers and subscribers. As represented in the above pie chart, subscribers are the most popular type of citibike user at 81.07%, while generic customers only make up 18.93%. As the data follows - subscribers in the male catgeory make up a very dense proprotion of people using citibike, and hence, are the most popular category of users. This is followed by subscribers in the female category. Interestingly enough, the unknown category is the only gender category that displays lower useage by subscriber vs. customer. 
 
 ## Summary
-The above series of viualizations indicate a number of inferences about the data that appear quite clear. First, the citibike service in NYC is most popularly used amongst males, a finding that has shown to remain true even when isolating for several variables such as usertype, trip duration, hours of the day or days of the week. Interestingly, the length of citibike rides doesn't seem to differ across any of the gender categories however. Second, citibike's subscriber feature shows to be very effective, as a significantly large proportion of citibike users are subscribers, remaining true across majority of gender types. Finally, peak morning and early evening hours of the week-day represent the best hours for business for nearly all types of users, while late morning to evening are most busy for weekends. 
+The above series of viualizations indicate a number of inferences about the data that appear quite clear. First, the citibike service in NYC is most popularly used amongst males, a finding that has shown to remain true even when isolating for several variables such as usertype, trip duration, hours of the day or days of the week. Interestingly, the length of citibike rides doesn't seem to differ across any of the gender categories. Second, citibike's subscriber feature shows to be very effective, as a significantly large proportion of citibike users are subscribers, which is integral across majority of gender types. Finally, peak morning and early evening hours of the week-day represent the best hours for business for nearly all types of users, while late morning to evening are most busy for weekends. 
 
 Given the above analysis, the citibike data for August tells an interesting story about its users - who are most likely to use the service, when they use the service most - at what specific days and times - and generally, how they use the service overall. A couple of additional visualizations using the same data could be created to further understand the information at hand. 
 
