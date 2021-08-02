@@ -3,7 +3,7 @@
 
 ## Analysis Overview 
 - Using tableau to visualize NYC Citibike useage data for the month of August 2019. 
-- Data was briefly cleaned using Python, exported into a csv file, and then displayed using several tableau visualizations.
+- Data was briefly cleaned using Python, exported into a csv file, and then displayed using several tableau visualizations. (See [NYC_CitiBike_Challenge.ipynb](https://github.com/a-memme/NYC_Bikesharing_Analysis/blob/main/NYC_Citibike_Challenge.ipynb))
 
 ## Results
 The following visualizations were used to create a story in tableau, reflecting a number of relationships in the data:
